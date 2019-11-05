@@ -1,4 +1,4 @@
-# LordOfTheIpsum
+# The Lord of The Ipsum
 Lorem Ipsum based in Lord Of The Rings coded in JS and the help of Axios library.
 
 All of the **LOTR quotes** come from a **JSON file** I built and hosted in [here](https://api.myjson.com/bins/v8260) .
