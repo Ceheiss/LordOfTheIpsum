@@ -101,7 +101,8 @@ footer {
 
 .fab:hover{
   color: gold;
-  transform: scale(2);
+  transform: scale(1.5);
+  cursor: pointer;
 }
 
 /**** Media Queries ****/
