@@ -3,7 +3,7 @@
   const button = document.querySelector("#btn");
   const iteration = document.querySelector("#iteration");
   const container = document.querySelector("#container");
-  const url = "https://api.myjson.com/bins/v8260";
+  const url = "https://gist.githubusercontent.com/Ceheiss/087aa8e996fc28c4180118413042b0f7/raw/60e0f82322a2777d455680ab4209b8ae48c45d51/lotrquotes.json";;
 
   button.addEventListener("click", function(){
      axios.get(url)
